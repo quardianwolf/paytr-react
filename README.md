@@ -16,7 +16,7 @@ import {PayTR} from "paytr-react";
 
     (*** At this step, the values you enter will change depending on your choice between iframe API and direct API. Please check the documentation according to your preference and ensure variable substitution. Here, a variable has been used for direct API. ***)
 
-    const paytr = new PayTR({
+    const paytr = new PayTRClient({
 
       merchant_id: "YOURMERCHANTID",
       merchant_key: `YOURMERCHANTKEY`,
