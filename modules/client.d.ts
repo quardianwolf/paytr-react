@@ -8,7 +8,7 @@ import type {
   PayTRRefundResponse,
   PayTRValidateCallbackParams,
 } from "./types";
-export declare class PayTRClient {
+export declare class PayTR {
   private _merchantParams;
   private _client;
   constructor(params: PayTRConstructorParams);
