@@ -1,0 +1,10 @@
+{
+    "version": 1,
+    "file": "types.js",
+    "sourceRoot": "",
+    "sources": [
+        "../src/types.ts"
+    ],
+    "names": [],
+    "mappings": ""
+}

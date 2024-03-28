@@ -1,0 +1,10 @@
+{
+    "version": 1,
+    "file": "error.ts",
+    "sourceRoot": "",
+    "sources": [
+        "../src/error.ts"
+    ],
+    "names": [],
+    "mappings": "AAAA,OAAO,KAAK,EAAE,aAAa,EAAE,MAAM,OAAO,CAAC;AAE3C,qBAAa,cAAe,SAAQ,KAAK;IAChC,QAAQ,CAAC,EAAE,aAAa,CAAC,GAAG,CAAC,CAAC;gBAElB,OAAO,EAAE,MAAM,EAAE,QAAQ,CAAC,EAAE,aAAa,CAAC,GAAG,CAAC;CAIlE"
+}
