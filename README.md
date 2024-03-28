@@ -10,7 +10,7 @@ This package supports both iframe API and direct API payment systems.
 
 2- Import paytr in to your code.
 
-import {PayTR} from "paytr-react";
+    import { PayTRClient } from "paytr-react";
 
 3- Create a paytr client with your merchant environments.
 
