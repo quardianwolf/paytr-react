@@ -109,6 +109,6 @@ import {PayTR} from "paytr-react";
 
 # WARNING
 
-This package is not affiliated with "PayTR Payment and Electronic Money Institution Inc." It has been developed voluntarily by a software developer.
+This package is not affiliated with " PayTR Ödeme ve Elektronik Para Kuruluşu A.Ş" It has been developed voluntarily by a software developer.
 
 Contact:https://github.com/quardianwolf
