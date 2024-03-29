@@ -7,10 +7,10 @@ export interface PayTRMerchantParams {
   debug_on: boolean;
   no_installment: boolean;
   max_installment: number;
-  non_3d: string;
   timeout_limit: number;
   test_mode: boolean;
-  lang:string;
+  non_3d?: string;
+  lang?:string;
 }
 
 export interface PayTRBasketItemObject {
